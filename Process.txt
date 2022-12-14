@@ -1,0 +1,26 @@
+1. GUI
+    1.1 Ten tracker simplified display //added
+    1.2 display field show each event //added
+    1.3 Restriction Setting panel //added
+    1.4 Distance 
+        merged to Ten tracker data table.
+2. components
+    2.1 TextArea showing stream data, disappear after 3sec //added
+    2.2 Table showing stream data //added
+    2.3 SButton, SLabel, STextField //added
+    2.4 TextField showing stream data, disppear after 3 sec //added
+3. data process
+    3.1 Ten tracker simplified display data //added 
+        SMyTextArea
+    3.2 merged event stream //added
+        SMyTextField
+    3.3 restricted event stream //added
+
+    3.4 distance data //added
+4. Junit test
+    4.1 SMyTextArea
+    4.2 SMyTable
+    4.2 SMyTextField
+    4.3 Range Restriction
+    4.4 
+
